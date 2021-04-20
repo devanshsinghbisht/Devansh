@@ -1,0 +1,92 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather';
+}
+h1{
+    color: #66bfbf;
+    font-family: 'Sacramento', cursive;
+    margin-top: 50px;
+    font-size: 500%;
+    padding-top: 7%;
+}
+h2 , h3{
+    text-decoration: solid;
+    color: #66bfbf;
+    font-weight: bold;
+}
+.pro{
+    text-decoration:underline ;
+}
+.top-para{  
+    font-size: 20px;
+}
+.top-container{
+    background-color: #E4F5F4;
+    position: relative;
+    padding-top: 30px;
+}
+.skill-row{
+    width: 50%;
+    margin: 50px auto;
+    text-align: left;
+    line-height: 2;
+}
+hr{
+    border: dotted #eaf6f6 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+}
+.top-cloud{
+    position: absolute;
+    left: 70%;
+    top: 10%;
+}
+.bottom-cloud{
+    position: absolute;
+    left: 20%;
+    bottom: 5 0%;
+}
+.devansh-img{
+    width: 20%;
+}
+.mountain{
+    width: 50%;
+}
+.computer-img{
+    float: left;
+    width: 25%;
+    margin-right: 30px;
+}
+.gaming-img{
+    float: right;
+    width: 25%;
+    margin-left: 30px;
+}
+.btn{
+  background-color: #66bfb1;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  border-radius: 10px;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.bottom-container{
+    background-color: #66bfbf;
+    margin-bottom: 0;
+    padding: 30px;
+}
+.footer-link{
+    margin: 5px 10px;
+    color: #11999E;
+}
+.bottom-container p{
+    color: #eaf6f6;
+}
